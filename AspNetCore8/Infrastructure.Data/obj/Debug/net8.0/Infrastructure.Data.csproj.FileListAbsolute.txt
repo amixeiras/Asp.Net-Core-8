@@ -1,0 +1,15 @@
+C:\GitHub\AspNetCore8\AspNetCore8\Infrastructure.Data\bin\Debug\net8.0\Infrastructure.Data.deps.json
+C:\GitHub\AspNetCore8\AspNetCore8\Infrastructure.Data\bin\Debug\net8.0\Infrastructure.Data.dll
+C:\GitHub\AspNetCore8\AspNetCore8\Infrastructure.Data\bin\Debug\net8.0\Infrastructure.Data.pdb
+C:\GitHub\AspNetCore8\AspNetCore8\Infrastructure.Data\bin\Debug\net8.0\Domain.dll
+C:\GitHub\AspNetCore8\AspNetCore8\Infrastructure.Data\bin\Debug\net8.0\Domain.pdb
+C:\GitHub\AspNetCore8\AspNetCore8\Infrastructure.Data\obj\Debug\net8.0\Infrastructure.Data.csproj.AssemblyReference.cache
+C:\GitHub\AspNetCore8\AspNetCore8\Infrastructure.Data\obj\Debug\net8.0\Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\AspNetCore8\AspNetCore8\Infrastructure.Data\obj\Debug\net8.0\Infrastructure.Data.AssemblyInfoInputs.cache
+C:\GitHub\AspNetCore8\AspNetCore8\Infrastructure.Data\obj\Debug\net8.0\Infrastructure.Data.AssemblyInfo.cs
+C:\GitHub\AspNetCore8\AspNetCore8\Infrastructure.Data\obj\Debug\net8.0\Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\GitHub\AspNetCore8\AspNetCore8\Infrastructure.Data\obj\Debug\net8.0\Infrastr.E726AEB6.Up2Date
+C:\GitHub\AspNetCore8\AspNetCore8\Infrastructure.Data\obj\Debug\net8.0\Infrastructure.Data.dll
+C:\GitHub\AspNetCore8\AspNetCore8\Infrastructure.Data\obj\Debug\net8.0\refint\Infrastructure.Data.dll
+C:\GitHub\AspNetCore8\AspNetCore8\Infrastructure.Data\obj\Debug\net8.0\Infrastructure.Data.pdb
+C:\GitHub\AspNetCore8\AspNetCore8\Infrastructure.Data\obj\Debug\net8.0\ref\Infrastructure.Data.dll

@@ -1,0 +1,17 @@
+C:\GitHub\AspNetCore8\AspNetCore8\Domain.Services\bin\Debug\net8.0\Domain.Services.deps.json
+C:\GitHub\AspNetCore8\AspNetCore8\Domain.Services\bin\Debug\net8.0\Domain.Services.dll
+C:\GitHub\AspNetCore8\AspNetCore8\Domain.Services\bin\Debug\net8.0\Domain.Services.pdb
+C:\GitHub\AspNetCore8\AspNetCore8\Domain.Services\bin\Debug\net8.0\Domain.Core.dll
+C:\GitHub\AspNetCore8\AspNetCore8\Domain.Services\bin\Debug\net8.0\Domain.dll
+C:\GitHub\AspNetCore8\AspNetCore8\Domain.Services\bin\Debug\net8.0\Domain.Core.pdb
+C:\GitHub\AspNetCore8\AspNetCore8\Domain.Services\bin\Debug\net8.0\Domain.pdb
+C:\GitHub\AspNetCore8\AspNetCore8\Domain.Services\obj\Debug\net8.0\Domain.Services.csproj.AssemblyReference.cache
+C:\GitHub\AspNetCore8\AspNetCore8\Domain.Services\obj\Debug\net8.0\Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\AspNetCore8\AspNetCore8\Domain.Services\obj\Debug\net8.0\Domain.Services.AssemblyInfoInputs.cache
+C:\GitHub\AspNetCore8\AspNetCore8\Domain.Services\obj\Debug\net8.0\Domain.Services.AssemblyInfo.cs
+C:\GitHub\AspNetCore8\AspNetCore8\Domain.Services\obj\Debug\net8.0\Domain.Services.csproj.CoreCompileInputs.cache
+C:\GitHub\AspNetCore8\AspNetCore8\Domain.Services\obj\Debug\net8.0\Domain.S.44836E94.Up2Date
+C:\GitHub\AspNetCore8\AspNetCore8\Domain.Services\obj\Debug\net8.0\Domain.Services.dll
+C:\GitHub\AspNetCore8\AspNetCore8\Domain.Services\obj\Debug\net8.0\refint\Domain.Services.dll
+C:\GitHub\AspNetCore8\AspNetCore8\Domain.Services\obj\Debug\net8.0\Domain.Services.pdb
+C:\GitHub\AspNetCore8\AspNetCore8\Domain.Services\obj\Debug\net8.0\ref\Domain.Services.dll

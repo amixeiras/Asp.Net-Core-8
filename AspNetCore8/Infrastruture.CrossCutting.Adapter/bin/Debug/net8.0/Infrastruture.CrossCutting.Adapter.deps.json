@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Infrastruture.CrossCutting.Adapter/1.0.0": {
+        "dependencies": {
+          "Application.DTO": "1.0.0",
+          "Domain": "1.0.0"
+        },
+        "runtime": {
+          "Infrastruture.CrossCutting.Adapter.dll": {}
+        }
+      },
+      "Application.DTO/1.0.0": {
+        "dependencies": {
+          "Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "Application.DTO.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "runtime": {
+          "Domain.dll": {}
+        }
+      },
+      "Domain.Core/1.0.0": {
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "runtime": {
+          "Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Infrastruture.CrossCutting.Adapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

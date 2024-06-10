@@ -1,0 +1,11 @@
+C:\GitHub\AspNetCore8\AspNetCore8\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\GitHub\AspNetCore8\AspNetCore8\Domain\bin\Debug\net8.0\Domain.dll
+C:\GitHub\AspNetCore8\AspNetCore8\Domain\bin\Debug\net8.0\Domain.pdb
+C:\GitHub\AspNetCore8\AspNetCore8\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\AspNetCore8\AspNetCore8\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\GitHub\AspNetCore8\AspNetCore8\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\GitHub\AspNetCore8\AspNetCore8\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\GitHub\AspNetCore8\AspNetCore8\Domain\obj\Debug\net8.0\Domain.dll
+C:\GitHub\AspNetCore8\AspNetCore8\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\GitHub\AspNetCore8\AspNetCore8\Domain\obj\Debug\net8.0\Domain.pdb
+C:\GitHub\AspNetCore8\AspNetCore8\Domain\obj\Debug\net8.0\ref\Domain.dll

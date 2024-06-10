@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{263ED8CF-02E6-4AE5-8C4E-038CC35B1466}|AspNetCore8\\AspNetCore8.csproj|c:\\github\\aspnetcore8\\aspnetcore8\\aspnetcore8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263ED8CF-02E6-4AE5-8C4E-038CC35B1466}|AspNetCore8\\AspNetCore8.csproj|solutionrelative:aspnetcore8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FCBDD8-6CE4-4E45-AD7E-5433BD7C6CE6}|Infrastructure.Data\\Infrastructure.Data.csproj|c:\\github\\aspnetcore8\\aspnetcore8\\infrastructure.data\\confignhibernate\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FCBDD8-6CE4-4E45-AD7E-5433BD7C6CE6}|Infrastructure.Data\\Infrastructure.Data.csproj|solutionrelative:infrastructure.data\\confignhibernate\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB758E1E-68C9-4881-B9EE-A5F7215AF638}|Domain.Services\\Domain.Services.csproj|c:\\github\\aspnetcore8\\aspnetcore8\\domain.services\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB758E1E-68C9-4881-B9EE-A5F7215AF638}|Domain.Services\\Domain.Services.csproj|solutionrelative:domain.services\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB7406D-9803-4C05-A685-80698A042592}|Infrastruture.Repository\\Infrastruture.Repository.csproj|c:\\github\\aspnetcore8\\aspnetcore8\\infrastruture.repository\\repositorys\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB7406D-9803-4C05-A685-80698A042592}|Infrastruture.Repository\\Infrastruture.Repository.csproj|solutionrelative:infrastruture.repository\\repositorys\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB758E1E-68C9-4881-B9EE-A5F7215AF638}|Domain.Services\\Domain.Services.csproj|c:\\github\\aspnetcore8\\aspnetcore8\\domain.services\\services\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB758E1E-68C9-4881-B9EE-A5F7215AF638}|Domain.Services\\Domain.Services.csproj|solutionrelative:domain.services\\services\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4251141F-B6ED-4D69-9AA0-53A2B600E851}|Domain.Core\\Domain.Core.csproj|c:\\github\\aspnetcore8\\aspnetcore8\\domain.core\\interfaces\\services\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4251141F-B6ED-4D69-9AA0-53A2B600E851}|Domain.Core\\Domain.Core.csproj|solutionrelative:domain.core\\interfaces\\services\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB7406D-9803-4C05-A685-80698A042592}|Infrastruture.Repository\\Infrastruture.Repository.csproj|c:\\github\\aspnetcore8\\aspnetcore8\\infrastruture.repository\\repositorys\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB7406D-9803-4C05-A685-80698A042592}|Infrastruture.Repository\\Infrastruture.Repository.csproj|solutionrelative:infrastruture.repository\\repositorys\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FCBDD8-6CE4-4E45-AD7E-5433BD7C6CE6}|Infrastructure.Data\\Infrastructure.Data.csproj|c:\\github\\aspnetcore8\\aspnetcore8\\infrastructure.data\\mapentity\\enderecomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FCBDD8-6CE4-4E45-AD7E-5433BD7C6CE6}|Infrastructure.Data\\Infrastructure.Data.csproj|solutionrelative:infrastructure.data\\mapentity\\enderecomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4251141F-B6ED-4D69-9AA0-53A2B600E851}|Domain.Core\\Domain.Core.csproj|c:\\github\\aspnetcore8\\aspnetcore8\\domain.core\\interfaces\\repository\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4251141F-B6ED-4D69-9AA0-53A2B600E851}|Domain.Core\\Domain.Core.csproj|solutionrelative:domain.core\\interfaces\\repository\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnderecoService.cs",
+              "DocumentMoniker": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\Domain.Services\\Services\\EnderecoService.cs",
+              "RelativeDocumentMoniker": "Domain.Services\\Services\\EnderecoService.cs",
+              "ToolTip": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\Domain.Services\\Services\\EnderecoService.cs",
+              "RelativeToolTip": "Domain.Services\\Services\\EnderecoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T07:50:18.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\Domain.Services\\Services\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "Domain.Services\\Services\\ServiceBase.cs",
+              "ToolTip": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\Domain.Services\\Services\\ServiceBase.cs",
+              "RelativeToolTip": "Domain.Services\\Services\\ServiceBase.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T07:49:48.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IServiceBase.cs",
+              "DocumentMoniker": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\Domain.Core\\Interfaces\\Services\\IServiceBase.cs",
+              "RelativeDocumentMoniker": "Domain.Core\\Interfaces\\Services\\IServiceBase.cs",
+              "ToolTip": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\Domain.Core\\Interfaces\\Services\\IServiceBase.cs",
+              "RelativeToolTip": "Domain.Core\\Interfaces\\Services\\IServiceBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T07:48:12.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\AspNetCore8\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspNetCore8\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\AspNetCore8\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspNetCore8\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T07:46:57.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\Infrastructure.Data\\ConfigNhibernate\\Connection.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Data\\ConfigNhibernate\\Connection.cs",
+              "ToolTip": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\Infrastructure.Data\\ConfigNhibernate\\Connection.cs",
+              "RelativeToolTip": "Infrastructure.Data\\ConfigNhibernate\\Connection.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAkwFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T07:46:57.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnderecoMap.cs",
+              "DocumentMoniker": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\Infrastructure.Data\\MapEntity\\EnderecoMap.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Data\\MapEntity\\EnderecoMap.cs",
+              "ToolTip": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\Infrastructure.Data\\MapEntity\\EnderecoMap.cs",
+              "RelativeToolTip": "Infrastructure.Data\\MapEntity\\EnderecoMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T07:46:57.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\Infrastruture.Repository\\Repositorys\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Infrastruture.Repository\\Repositorys\\RepositoryBase.cs",
+              "ToolTip": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\Infrastruture.Repository\\Repositorys\\RepositoryBase.cs",
+              "RelativeToolTip": "Infrastruture.Repository\\Repositorys\\RepositoryBase.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T07:40:25.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnderecoRepository.cs",
+              "DocumentMoniker": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\Infrastruture.Repository\\Repositorys\\EnderecoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastruture.Repository\\Repositorys\\EnderecoRepository.cs",
+              "ToolTip": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\Infrastruture.Repository\\Repositorys\\EnderecoRepository.cs",
+              "RelativeToolTip": "Infrastruture.Repository\\Repositorys\\EnderecoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T07:37:54.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEnderecoRepository.cs",
+              "DocumentMoniker": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\Domain.Core\\Interfaces\\Repository\\IEnderecoRepository.cs",
+              "RelativeDocumentMoniker": "Domain.Core\\Interfaces\\Repository\\IEnderecoRepository.cs",
+              "ToolTip": "C:\\GitHub\\AspNetCore8\\AspNetCore8\\Domain.Core\\Interfaces\\Repository\\IEnderecoRepository.cs",
+              "RelativeToolTip": "Domain.Core\\Interfaces\\Repository\\IEnderecoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T07:34:20.461Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
